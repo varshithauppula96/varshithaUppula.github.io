@@ -12,6 +12,7 @@ About
 ======
 Hi! I’m Varshitha Uppula, a Masters Student at the Northeastern University, Boston(Massachusetts) in the Department of Computer Science. I love coding and working on new ideas to solve some day to day problems. I am currently working on my coop at Bigelow Laboratories and have 2 years of expierence in Accenture(India) as a Software developer.
 In my free time, I like to dance, paint, play some sports, read and try to learn something new!
+
 My Work and Research
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
