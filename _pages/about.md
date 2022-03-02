@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-About
-======
+
 Hi! I’m Varshitha Uppula, a Masters Student at the Northeastern University, Boston(Massachusetts) in the Department of Computer Science. I love coding and working on new ideas to solve some day to day problems. I am currently working on my coop at Bigelow Laboratories and have 2 years of expierence in Accenture(India) as a Software developer.
 In my free time, I like to dance, paint, play some sports, read and try to learn something new!
 
