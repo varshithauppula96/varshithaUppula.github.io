@@ -29,7 +29,7 @@ Data about Covid test taken is maintained and used to determine the Infection st
 User reports their symptoms, countries visited within the last year, and their gps location data is tracked.
 Triggers and stored procedures were used to automatically change status of user as infected, safe or suspect based on the symptoms, contact with Covid suspect, travel history.
 
-Link to Project - https://github.com/varshithauppula96/Covid-Contact-Tracing-
+Link to Project - [https://github.com/varshithauppula96/Covid-Contact-Tracing-](https://github.com/varshithauppula96/Covid-Contact-Tracing-)
 
 **Cell search and selection**
 
@@ -44,7 +44,7 @@ The goal of the project is to offer an Asynchronous Quantum Job Framework that w
 
 This framework acts as a facade for the user to interact with switchable quantum workload processing backends. And also handles the burden of storing the result of quantum workloads in a secure, reliable and persistent manner.
 
-Link - https://github.com/varshithauppula96/Asynchronous-quantum-job-submission-framework
+Link - [https://github.com/varshithauppula96/Asynchronous-quantum-job-submission-framework](https://github.com/varshithauppula96/Asynchronous-quantum-job-submission-framework)
 
 **project 1-**
 
@@ -52,5 +52,5 @@ I have also created [a set of Jupyter notebooks](https://github.com/academicpage
 ) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 Contact
 ------
-Email - varshithauppula@gmail.com
-Linkedln - https://www.linkedin.com/in/varshitha-uppula/
+Email- varshithauppula@gmail.com
+[Linkedln](https://www.linkedin.com/in/varshitha-uppula/)
