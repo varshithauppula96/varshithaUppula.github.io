@@ -23,7 +23,7 @@ Projects I've worked on in brief
 I love and enjoy working on projects, and below is a brief description of a few projects that I've worked on -
 
 
-**Covid-Contact-Tracing **
+**Covid-Contact-Tracing**
 
 Designed and implemented a Relational database using MySql for Covid contact tracing system. 
 Data about Covid test taken is maintained and used to determine the Infection status of user.
@@ -32,7 +32,7 @@ Triggers and stored procedures were used to automatically change status of user 
 
 Link to Project - https://github.com/varshithauppula96/Covid-Contact-Tracing-
 
-**Cell search and selection **
+**Cell search and selection**
 
 A model to link the user equipment with the base station by providing synchronization in frequency and time using PSS and SSS signals transmitted and recieved over a radio frame.
 This method performs the symbol timing and physical layer sector identity estimations in frequency domain with less complexity, utilising the frequency domain properties of a primary synchronisation signal.
@@ -47,7 +47,7 @@ This framework acts as a facade for the user to interact with switchable quantum
 
 Link - https://github.com/varshithauppula96/Asynchronous-quantum-job-submission-framework
 
-**project 1- **
+**project 1-**
 
 I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
 ) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
